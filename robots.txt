@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mitakaasa123.github.io/sitemap.xml
